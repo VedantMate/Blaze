@@ -7,8 +7,6 @@ Blaze is a real-time video streaming application built with WebRTC and Agora ser
 - [Introduction](#introduction)
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Troubleshooting](#troubleshooting)
 
 ## Introduction
 
